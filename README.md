@@ -73,8 +73,8 @@ Both responses kept “Hold to aim” on the main control and put turning and re
 
 | Version | First response | Result |
 | --- | --- | --- |
-| **A** | [Paste Marin’s first Claude response for Rules A.] | **Pass** |
-| **B** | [Paste Marin’s first Claude response for Rules B.] | **Pass** |
+| **A** | The main control told the player to hold to swing, and the supporting text explained when to release. | **Pass** |
+| **B** | The main control still told the player to hold to swing, with the release instruction in the supporting text. | **Pass** |
 
 Both responses followed the shared rule for the Aim Locked screen. The main control communicated that the player should hold to swing, and the supporting text explained when to release.
 
