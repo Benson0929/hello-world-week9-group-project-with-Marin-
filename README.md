@@ -67,9 +67,9 @@ Both responses kept “Hold to aim” on the main control and put turning and re
 
 ### Marin — Aim Locked
 
-**Prediction before running B:** [Paste Marin’s recorded prediction.]
+**Prediction before running B:** The main control should say “Hold to swing,” and the supporting text should tell the player to release once the swing is detected.
 
-**Prompt used in both chats:** [Paste Marin’s actual prompt.]
+**Prompt used in both chats:** Using the attached “Aim Locked” screen and shared design rules, suggest a label for the main blue control and one short line of supporting text for a first-time player who has locked their aim and is ready to swing. Follow the existing swing interaction and return exactly two lines labeled “Main control” and “Supporting text.”
 
 | Version | First response | Result |
 | --- | --- | --- |
@@ -80,9 +80,9 @@ Both responses followed the shared rule for the Aim Locked screen. The main cont
 
 ## Human observation and design decisions
 
-**Benson:** I separated the state heading from the action label so that “Ready to aim” tells the player where they are and “Hold to aim” tells them what to do. I shortened the supporting instructions and increased their size to 20 px. [Add who tried the screen, what they did or said, and what you decided to keep or change based on that observation.]
+**Benson:** I separated the state heading from the action label so that “Ready to aim” tells the player where they are and “Hold to aim” tells them what to do. I shortened the supporting instructions and increased their size to 20 px. When Marin played the original game, she paired her phone successfully but had trouble finding “Enable motion sensors” because it looked like the other secondary buttons. Her feedback reinforced the importance of making the next action easy to spot. In my Ready to Aim redesign, I kept “Hold to aim” as the most prominent text and placed the turning and release instructions in the supporting text.
 
-**Marin:** [Add Marin’s own design or testing contribution, who tried the screen, what they did or said, and what she decided to keep or change.]
+**Marin:**Marin:** I played the original game and was able to pair my phone, but I had trouble finding the “Enable motion sensors” button because it looked like the other secondary controls. I suggested making it more prominent and added spacing guidelines for text fields and adjacent buttons to our shared rules. I also tested the redesigned “Aim Locked” screen with both versions of the rules. Both passed, and I recommend keeping “Hold to swing” as the main instruction and the release cue in the supporting text.
 
 **AI contribution:** Claude generated button labels and supporting text using the redesigned screens and our shared rules. We compared the first responses from both rule versions.
 
