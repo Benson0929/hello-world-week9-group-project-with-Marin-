@@ -32,18 +32,19 @@ We designed for first-time players who look back and forth between their phone a
 
 **Ready to Aim — Before and After**
 
-![Ready to Aim before and after](images/ready-to-aim-before-after.png)
+![Ready to Aim before and after](Ready%20to%20Aim%20before%20and%20after.png)
+
 
 **Aim Locked — Before and After**
 
-![Aim Locked before and after](images/aim-locked-before-after.png)
+![Aim Locked before and after](Aim%20Locked%20before%20and%20after.png)
 
 ## A/B test with Claude
 
 We tested whether Claude would keep the first available action on the main control and put later steps in the supporting text. For each screen, we used the same redesigned mockup and prompt in two separate chats. We attached Rules A in the first chat and Rules B in the second.
 
-- [Rules A PDF](docs/golfaxy-rules-a.pdf) describes the main control as showing the action available now or telling the player to wait.
-- [Rules B PDF](docs/golfaxy-rules-b.pdf) explicitly says to put the first available action on the main control and later steps in the supporting text.
+- [Rules A PDF](Rules%20A%20PDF.pdf) describes the main control as showing the action available now or telling the player to wait.
+- [Rules B PDF](Rules%20B%20PDF%20.pdf) explicitly says to put the first available action on the main control and later steps in the supporting text.
 
 ### Benson — Ready to Aim
 
