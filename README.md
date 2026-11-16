@@ -48,7 +48,7 @@ We tested whether Claude would keep the first available action on the main contr
 
 ### Benson — Ready to Aim
 
-**Prediction before running B:** [Paste the prediction you recorded before the second test.]
+**Prediction before running B:** I predict that Claude will keep “Hold to aim” as the main control label and leave the turning and release instructions in the supporting text.
 
 **Prompt used in both chats:**
 
