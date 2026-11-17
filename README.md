@@ -3,7 +3,7 @@
 https://golfaxy.up.railway.app/
 
 **Week 9 · Context and Evidence Study**  
-**Benson Chuang & Marin**
+**Benson & Marin**
 
 ## Project and audience
 
