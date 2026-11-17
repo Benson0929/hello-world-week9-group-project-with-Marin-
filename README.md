@@ -69,7 +69,11 @@ Both responses kept “Hold to aim” on the main control and put turning and re
 
 **Prediction before running B:** The main control should say “Hold to swing,” and the supporting text should tell the player to release once the swing is detected.
 
-**Prompt used in both chats:** Using the attached “Aim Locked” screen and shared design rules, suggest a label for the main blue control and one short line of supporting text for a first-time player who has locked their aim and is ready to swing. Follow the existing swing interaction and return exactly two lines labeled “Main control” and “Supporting text.”
+**Prompt used in both chats:**
+
+> Using the attached “Aim Locked” screen and shared design rules, suggest a label for the main blue control and one short line of supporting text for a first-time player who has locked their aim and is ready to swing.
+>
+> Follow the existing swing interaction and return exactly two lines labeled “Main control” and “Supporting text.”
 
 | Version | First response | Result |
 | --- | --- | --- |
